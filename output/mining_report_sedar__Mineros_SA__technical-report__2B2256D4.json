@@ -1,0 +1,317 @@
+{
+    "validation": {
+        "status": "OK",
+        "warnings": [],
+        "errors": [],
+        "metadata_summary": {
+            "project": "Nechí Alluvial Property",
+            "company": "Mineros S.A.",
+            "country": "Colombia",
+            "region": "Antioquia Department",
+            "effective_date": "December 31, 2024",
+            "qps": 5,
+            "mining_titles_count": 2,
+            "veins_count": 0
+        },
+        "resources_summary": {
+            "count": 3,
+            "total_tonnes": "750,000,000",
+            "total_metal_koz": "1,452.0",
+            "categories": [
+                "Measured",
+                "Indicated",
+                "Inferred"
+            ],
+            "commodity": "Gold",
+            "areas_count": 1,
+            "drilling_campaigns": 1,
+            "expected_drilling_campaigns": 13,
+            "cut_off_grades_count": 0,
+            "data_availability_count": 0,
+            "block_model_stats_count": 0,
+            "sample_statistics_count": 0,
+            "completeness_pct": 100.0
+        },
+        "reserves_summary": {
+            "count": 6,
+            "total_tonnes": "524,000,000",
+            "total_metal_koz": "1,354.0",
+            "categories": [
+                "Proven",
+                "Probable"
+            ],
+            "mining_method": "Alluvial",
+            "lom_years": 12.0,
+            "cut_off_grades_reserves_count": 0,
+            "has_table_15_1": false
+        },
+        "economics_summary": {
+            "capex_total": "$279,099,000",
+            "capex_sustaining": "$235,288,000",
+            "capex_non_sustaining": "$0",
+            "mining_cost_per_t": "$2.87",
+            "processing_cost_per_t": "$0.06",
+            "ga_cost_per_t": "$0.68",
+            "has_npv": false,
+            "has_irr": false,
+            "gold_price": "$1,750/oz",
+            "opex_detail_count": 7,
+            "capex_detail_count": 3,
+            "metallurgy_years": 0,
+            "credits_count": 0
+        }
+    },
+    "metadata": {
+        "project_info": {
+            "project_name": "Nechí Alluvial Property",
+            "company_name": "Mineros S.A.",
+            "status": "Producing"
+        },
+        "location": {
+            "country": "Colombia",
+            "region": "Antioquia Department",
+            "coordinates": "74°47’45” W longitude, 7°49’31” N latitude",
+            "municipalities": [
+                "El Bagre",
+                "Zaragoza",
+                "Caucasia",
+                "Nechí"
+            ]
+        },
+        "report_details": {
+            "report_type": "NI 43-101",
+            "report_date": "March 31, 2025",
+            "effective_date": "December 31, 2024",
+            "qualified_persons": [
+                "Luke Evans, M.Sc., P.Eng.",
+                "Goran Andric, P.Eng.",
+                "Eduardo Zamanillo, M.Sc., MBA, ChMC(RM)",
+                "Lance Engelbrecht, P.Eng.",
+                "Gerd M. Wiatzka, B.A.Sc., P.Eng."
+            ]
+        },
+        "mining_titles": [
+            {
+                "number": "RPP 57011",
+                "area_name": null,
+                "type": "Recognition of Private Property",
+                "area_ha": 35554,
+                "expiry": null
+            },
+            {
+                "number": null,
+                "area_name": null,
+                "type": "Concession Contracts",
+                "area_ha": 6097,
+                "expiry": null
+            }
+        ],
+        "vein_dimensions": []
+    },
+    "mineral_resources": {
+        "summary": {
+            "commodity": "Gold",
+            "unit": "mg/m³ Au",
+            "contained_unit": "koz Au"
+        },
+        "data": [
+            {
+                "area": "Nechí Alluvial Property",
+                "category": "Measured",
+                "tonnes": 79000000.0,
+                "grade": 55.0,
+                "contained_metal": 140.0
+            },
+            {
+                "area": "Nechí Alluvial Property",
+                "category": "Indicated",
+                "tonnes": 448000000.0,
+                "grade": 56.0,
+                "contained_metal": 865.0
+            },
+            {
+                "area": "Nechí Alluvial Property",
+                "category": "Inferred",
+                "tonnes": 223000000.0,
+                "grade": 62.0,
+                "contained_metal": 447.0
+            }
+        ],
+        "cut_off_grades": [],
+        "drilling_summary": [
+            {
+                "target": "Nechí Alluvial Property",
+                "number_of_holes": 1864,
+                "total_metres": 46375.5
+            }
+        ],
+        "data_availability": [],
+        "block_model_stats": [],
+        "sample_statistics": [],
+        "totals": {
+            "measured_tonnes": 79000000.0,
+            "indicated_tonnes": 448000000.0,
+            "inferred_tonnes": 223000000.0,
+            "measured_indicated_tonnes": 527000000.0,
+            "measured_metal_koz": 140.0,
+            "indicated_metal_koz": 865.0,
+            "inferred_metal_koz": 447.0,
+            "measured_indicated_metal_koz": 1005.0,
+            "total_drilling_holes": 1864,
+            "total_drilling_metres": 46375.5,
+            "total_channel_samples": 0,
+            "total_channel_metres": 0.0
+        }
+    },
+    "mineral_reserves": {
+        "summary": {
+            "mining_method": "Alluvial",
+            "life_of_mine_years": 12.0,
+            "mining_rate_tpd": null,
+            "dilution_pct": 10.0,
+            "mining_recovery_pct": 100.0
+        },
+        "data": [
+            {
+                "area": "Bucket Line Dredges",
+                "category": "Proven",
+                "tonnes": 74000000.0,
+                "grade": 72.0,
+                "contained_metal": 171.0
+            },
+            {
+                "area": "Llanuras Production Unit",
+                "category": "Proven",
+                "tonnes": 9000000.0,
+                "grade": 51.0,
+                "contained_metal": 15.0
+            },
+            {
+                "area": "Brazilian Dredges",
+                "category": "Proven",
+                "tonnes": 3000000.0,
+                "grade": 81.0,
+                "contained_metal": 8.0
+            },
+            {
+                "area": "Bucket Line Dredges",
+                "category": "Probable",
+                "tonnes": 335000000.0,
+                "grade": 84.0,
+                "contained_metal": 901.0
+            },
+            {
+                "area": "Llanuras Production Unit",
+                "category": "Probable",
+                "tonnes": 30000000.0,
+                "grade": 55.0,
+                "contained_metal": 53.0
+            },
+            {
+                "area": "Brazilian Dredges",
+                "category": "Probable",
+                "tonnes": 73000000.0,
+                "grade": 87.0,
+                "contained_metal": 206.0
+            }
+        ],
+        "cut_off_grades_reserves": [],
+        "totals": {
+            "proven_tonnes": 86000000.0,
+            "probable_tonnes": 438000000.0,
+            "proven_probable_tonnes": 524000000.0,
+            "proven_metal_koz": 195.0,
+            "probable_metal_koz": 1159.0,
+            "proven_probable_metal_koz": 1355.0,
+            "average_grade": 80.0
+        }
+    },
+    "economics": {
+        "valuation": {
+            "npv": null,
+            "irr": null,
+            "discount_rate": 0.05,
+            "currency": "USD",
+            "payback_period_years": null
+        },
+        "cost_structure": {
+            "capex": {
+                "sustaining": 235288000.0,
+                "non_sustaining": 0.0,
+                "total": 279099000.0
+            },
+            "opex": {
+                "mining_cost_per_tonne": 2.87,
+                "processing_cost_per_tonne": 0.06,
+                "ga_cost_per_tonne": 0.68,
+                "total_cost_per_tonne": 2.87
+            },
+            "metal_prices": {
+                "gold_price_assumption": 1750.0,
+                "silver_price_assumption": null
+            }
+        },
+        "operating_costs_detail": [
+            {
+                "description": "Mining Cost - Bucket Line Dredges",
+                "amount": 259931000.0,
+                "unit": "USD"
+            },
+            {
+                "description": "Mining Cost - Suction Dredges & Llanuras",
+                "amount": 25232000.0,
+                "unit": "USD"
+            },
+            {
+                "description": "Mining Costs - Formalized Dredges - Mineros Owned",
+                "amount": 48732000.0,
+                "unit": "USD"
+            },
+            {
+                "description": "Mining Costs - Formalized Dredges - Third party",
+                "amount": 114745000.0,
+                "unit": "USD"
+            },
+            {
+                "description": "Mining Costs - Waste Stripping - Suction Dredges",
+                "amount": 155474000.0,
+                "unit": "USD"
+            },
+            {
+                "description": "Processing Costs - Concentrate Treatment",
+                "amount": 17035000.0,
+                "unit": "USD"
+            },
+            {
+                "description": "Support Areas - Site G&A",
+                "amount": 194226000.0,
+                "unit": "USD"
+            }
+        ],
+        "capital_costs_detail": [
+            {
+                "category": "Sustaining",
+                "description": "Sustaining Capital - Development",
+                "amount": 64024000.0
+            },
+            {
+                "category": "Sustaining",
+                "description": "Sustaining Capital - Operations",
+                "amount": 171264000.0
+            },
+            {
+                "category": "Reclamation/Closure",
+                "description": "Reclamation/Closure Capital",
+                "amount": 43811000.0
+            }
+        ],
+        "metallurgy_history": [],
+        "credits": [],
+        "processing_info": {
+            "plant_name": "El Bagre metallurgical plant",
+            "nominal_capacity_tpd": null,
+            "process_type": "gravity concentration",
+            "recovery_rate_pct": 83.0
+        }
+    }
+}

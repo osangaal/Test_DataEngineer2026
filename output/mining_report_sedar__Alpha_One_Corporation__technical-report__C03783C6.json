@@ -1,0 +1,300 @@
+{
+    "validation": {
+        "status": "WARNING",
+        "warnings": [
+            "⚠️  Sin recursos NI 43-101 definidos (proyecto en exploración)"
+        ],
+        "errors": [],
+        "metadata_summary": {
+            "project": "Guadalupe Project",
+            "company": "Solvista Gold Corporation",
+            "country": "Colombia",
+            "region": "Department of Antioquia",
+            "effective_date": null,
+            "qps": 1,
+            "mining_titles_count": 24,
+            "veins_count": 0
+        },
+        "resources_summary": {},
+        "reserves_summary": {},
+        "economics_summary": {
+            "capex_total": "$0",
+            "capex_sustaining": "$0",
+            "capex_non_sustaining": "$0",
+            "mining_cost_per_t": "$0.00",
+            "processing_cost_per_t": "$0.00",
+            "ga_cost_per_t": "$0.00",
+            "has_npv": false,
+            "has_irr": false,
+            "gold_price": "$0/oz",
+            "opex_detail_count": 0,
+            "capex_detail_count": 0,
+            "metallurgy_years": 0,
+            "credits_count": 0
+        }
+    },
+    "metadata": {
+        "project_info": {
+            "project_name": "Guadalupe Project",
+            "company_name": "Solvista Gold Corporation",
+            "status": "Exploration"
+        },
+        "location": {
+            "country": "Colombia",
+            "region": "Department of Antioquia",
+            "coordinates": "Approximately at Latitude 6°50’ N and Longitude 75°15’ W",
+            "municipalities": [
+                "Guadalupe",
+                "Gomez Plata",
+                "Amalfi",
+                "Carolina del Principe",
+                "Anori",
+                "Angostura",
+                "Campamento"
+            ]
+        },
+        "report_details": {
+            "report_type": "NI 43-101",
+            "report_date": "February 28, 2011",
+            "effective_date": null,
+            "qualified_persons": [
+                "Paul Chamois, M.Sc.(Applied), P.Geo."
+            ]
+        },
+        "mining_titles": [
+            {
+                "number": "6150",
+                "area_name": null,
+                "type": "Registered Contract",
+                "area_ha": 1240.8,
+                "expiry": "08/02/2037"
+            },
+            {
+                "number": "6300",
+                "area_name": null,
+                "type": "Registered Contract",
+                "area_ha": 1942.81,
+                "expiry": "22/06/2040"
+            },
+            {
+                "number": "6399",
+                "area_name": null,
+                "type": "Registered Contract",
+                "area_ha": 1319.89,
+                "expiry": "08/08/2038"
+            },
+            {
+                "number": "7137",
+                "area_name": null,
+                "type": "Registered Contract",
+                "area_ha": 756.87,
+                "expiry": "26/04/2040"
+            },
+            {
+                "number": "7137D",
+                "area_name": null,
+                "type": "Registered Contract",
+                "area_ha": 108.69,
+                "expiry": "27/04/2040"
+            },
+            {
+                "number": "7237",
+                "area_name": null,
+                "type": "Registered Contract",
+                "area_ha": 585.93,
+                "expiry": "25/06/2040"
+            },
+            {
+                "number": "6589",
+                "area_name": null,
+                "type": "Signed Contract",
+                "area_ha": 562.53,
+                "expiry": null
+            },
+            {
+                "number": "7137B",
+                "area_name": null,
+                "type": "Signed Contract",
+                "area_ha": 359.0,
+                "expiry": null
+            },
+            {
+                "number": "7137C",
+                "area_name": null,
+                "type": "Signed Contract",
+                "area_ha": 360.75,
+                "expiry": null
+            },
+            {
+                "number": "7510B",
+                "area_name": null,
+                "type": "Signed Contract",
+                "area_ha": 95.41,
+                "expiry": null
+            },
+            {
+                "number": "7555",
+                "area_name": null,
+                "type": "Signed Contract",
+                "area_ha": 600.0,
+                "expiry": null
+            },
+            {
+                "number": "4778",
+                "area_name": null,
+                "type": "Awarded Licence",
+                "area_ha": 176.0,
+                "expiry": null
+            },
+            {
+                "number": "5692",
+                "area_name": null,
+                "type": "Awarded Licence",
+                "area_ha": 525.0,
+                "expiry": null
+            },
+            {
+                "number": "7509",
+                "area_name": null,
+                "type": "Application w/ Technical Study",
+                "area_ha": 2668.1,
+                "expiry": null
+            },
+            {
+                "number": "7509B",
+                "area_name": null,
+                "type": "Application w/ Technical Study",
+                "area_ha": 3881.57,
+                "expiry": null
+            },
+            {
+                "number": "7510",
+                "area_name": null,
+                "type": "Application w/ Technical Study",
+                "area_ha": 35.0,
+                "expiry": null
+            },
+            {
+                "number": "7555B",
+                "area_name": null,
+                "type": "Application w/ Technical Study",
+                "area_ha": 375.67,
+                "expiry": null
+            },
+            {
+                "number": "IF5-08001X",
+                "area_name": null,
+                "type": "Application w/out Technical Study",
+                "area_ha": 4800.0,
+                "expiry": null
+            },
+            {
+                "number": "KGN--08131",
+                "area_name": null,
+                "type": "Application w/out Technical Study",
+                "area_ha": 9965.88,
+                "expiry": null
+            },
+            {
+                "number": "KI8-08521",
+                "area_name": null,
+                "type": "Application w/out Technical Study",
+                "area_ha": 9953.42,
+                "expiry": null
+            },
+            {
+                "number": "KJ1-08021",
+                "area_name": null,
+                "type": "Application w/out Technical Study",
+                "area_ha": 8222.85,
+                "expiry": null
+            },
+            {
+                "number": "KJ8-15221",
+                "area_name": null,
+                "type": "Application w/out Technical Study",
+                "area_ha": 6436.21,
+                "expiry": null
+            },
+            {
+                "number": "LB1-08111",
+                "area_name": null,
+                "type": "Application w/out Technical Study",
+                "area_ha": 4008.96,
+                "expiry": null
+            },
+            {
+                "number": "LD6-08011",
+                "area_name": null,
+                "type": "Application w/out Technical Study",
+                "area_ha": 5000.0,
+                "expiry": null
+            }
+        ],
+        "vein_dimensions": []
+    },
+    "mineral_resources": {
+        "summary": {
+            "commodity": "Gold/Copper",
+            "unit": "g/t Au",
+            "contained_unit": "koz Au"
+        },
+        "data": [],
+        "cut_off_grades": [],
+        "drilling_summary": [],
+        "data_availability": [],
+        "block_model_stats": [],
+        "sample_statistics": [],
+        "totals": {
+            "measured_tonnes": 0.0,
+            "indicated_tonnes": 0.0,
+            "inferred_tonnes": 0.0,
+            "measured_indicated_tonnes": 0.0,
+            "measured_metal_koz": 0.0,
+            "indicated_metal_koz": 0.0,
+            "inferred_metal_koz": 0.0,
+            "measured_indicated_metal_koz": 0.0,
+            "total_drilling_holes": 0,
+            "total_drilling_metres": 0.0,
+            "total_channel_samples": 0,
+            "total_channel_metres": 0.0
+        }
+    },
+    "mineral_reserves": {
+        "summary": {},
+        "data": [],
+        "cut_off_grades_reserves": [],
+        "totals": {}
+    },
+    "economics": {
+        "valuation": {
+            "npv": null,
+            "irr": null,
+            "discount_rate": 0.05,
+            "currency": "USD",
+            "payback_period_years": null
+        },
+        "cost_structure": {
+            "capex": {
+                "sustaining": 0.0,
+                "non_sustaining": 0.0,
+                "total": 0.0
+            },
+            "opex": {
+                "mining_cost_per_tonne": 0.0,
+                "processing_cost_per_tonne": 0.0,
+                "ga_cost_per_tonne": 0.0,
+                "total_cost_per_tonne": 0.0
+            },
+            "metal_prices": {
+                "gold_price_assumption": 0.0,
+                "silver_price_assumption": null
+            }
+        },
+        "operating_costs_detail": [],
+        "capital_costs_detail": [],
+        "metallurgy_history": [],
+        "credits": [],
+        "processing_info": {}
+    }
+}

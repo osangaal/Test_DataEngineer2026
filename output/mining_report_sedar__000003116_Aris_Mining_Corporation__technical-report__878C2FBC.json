@@ -1,0 +1,649 @@
+{
+    "validation": {
+        "status": "OK",
+        "warnings": [],
+        "errors": [],
+        "metadata_summary": {
+            "project": "Segovia Operations",
+            "company": "Aris Mining Corporation",
+            "country": "Colombia",
+            "region": "Antioquia",
+            "effective_date": "September 30, 2023",
+            "qps": 3,
+            "mining_titles_count": 11,
+            "veins_count": 4
+        },
+        "resources_summary": {
+            "count": 4,
+            "total_tonnes": "20,500,000",
+            "total_metal_koz": "9,081.0",
+            "categories": [
+                "Measured",
+                "Indicated",
+                "Measured + Indicated",
+                "Inferred"
+            ],
+            "commodity": "Gold",
+            "areas_count": 1,
+            "drilling_campaigns": 13,
+            "expected_drilling_campaigns": 13,
+            "cut_off_grades_count": 4,
+            "data_availability_count": 10,
+            "block_model_stats_count": 4,
+            "sample_statistics_count": 4,
+            "completeness_pct": 100.0
+        },
+        "reserves_summary": {
+            "count": 2,
+            "total_tonnes": "3,532,000",
+            "total_metal_koz": "1,320.0",
+            "categories": [
+                "Proven",
+                "Probable"
+            ],
+            "mining_method": "Underground",
+            "lom_years": 7.0,
+            "cut_off_grades_reserves_count": 1,
+            "has_table_15_1": true
+        },
+        "economics_summary": {
+            "capex_total": "$0",
+            "capex_sustaining": "$0",
+            "capex_non_sustaining": "$0",
+            "mining_cost_per_t": "$143.00",
+            "processing_cost_per_t": "$35.00",
+            "ga_cost_per_t": "$26.00",
+            "has_npv": false,
+            "has_irr": false,
+            "gold_price": "$1,700/oz",
+            "opex_detail_count": 5,
+            "capex_detail_count": 1,
+            "metallurgy_years": 5,
+            "credits_count": 1
+        }
+    },
+    "metadata": {
+        "project_info": {
+            "project_name": "Segovia Operations",
+            "company_name": "Aris Mining Corporation",
+            "status": "Producing"
+        },
+        "location": {
+            "country": "Colombia",
+            "region": "Antioquia",
+            "coordinates": "7°04’ North and 74°42’ West",
+            "municipalities": [
+                "Segovia",
+                "Remedios"
+            ]
+        },
+        "report_details": {
+            "report_type": "NI 43-101",
+            "report_date": "December 6, 2023",
+            "effective_date": "September 30, 2023",
+            "qualified_persons": [
+                "Pamela De Mark, P.Geo.",
+                "Inivaldo Diaz, CP",
+                "Cornelius Lourens, FAusIMM"
+            ]
+        },
+        "mining_titles": [
+            {
+                "number": "R140011",
+                "area_name": "Segovia",
+                "type": "Recognition of private property",
+                "area_ha": 2871.97,
+                "expiry": null
+            },
+            {
+                "number": "H5990005",
+                "area_name": "Segovia",
+                "type": "Concession contract",
+                "area_ha": 58.83,
+                "expiry": "30/08/2034"
+            },
+            {
+                "number": "HCHC-23",
+                "area_name": "Segovia",
+                "type": "Exploration licence",
+                "area_ha": 25.81,
+                "expiry": "28/10/2031"
+            },
+            {
+                "number": "H6045005",
+                "area_name": "Carla",
+                "type": "Concession contract",
+                "area_ha": 567.59,
+                "expiry": "19/04/2035"
+            },
+            {
+                "number": "L1358005",
+                "area_name": "Carla",
+                "type": "Exploration licence",
+                "area_ha": 106.94,
+                "expiry": "28/04/2004"
+            },
+            {
+                "number": "C4998005",
+                "area_name": "Carla",
+                "type": "Concession contract",
+                "area_ha": 12.0,
+                "expiry": "09/02/2036"
+            },
+            {
+                "number": "501351",
+                "area_name": "Carla",
+                "type": "Concession contract",
+                "area_ha": 2.44,
+                "expiry": "19/09/2052"
+            },
+            {
+                "number": "H6038005",
+                "area_name": "Segovia north",
+                "type": "Concession contract",
+                "area_ha": 710.21,
+                "expiry": "19/04/2035"
+            },
+            {
+                "number": "H6012005",
+                "area_name": "Segovia north",
+                "type": "Concession contract",
+                "area_ha": 415.46,
+                "expiry": "19/04/2035"
+            },
+            {
+                "number": "H6013005",
+                "area_name": "Segovia north",
+                "type": "Concession contract",
+                "area_ha": 388.09,
+                "expiry": "08/05/2036"
+            },
+            {
+                "number": "H6046005",
+                "area_name": "Segovia north",
+                "type": "Concession contract",
+                "area_ha": 226.24,
+                "expiry": "09/09/2034"
+            }
+        ],
+        "vein_dimensions": [
+            {
+                "vein": "El Silencio",
+                "average_dip": "30°",
+                "strike_length_km": 2.8,
+                "down_dip_length_km": 2.7,
+                "average_vein_width_m": 1.3
+            },
+            {
+                "vein": "Providencia",
+                "average_dip": "33°",
+                "strike_length_km": 2.2,
+                "down_dip_length_km": 2.0,
+                "average_vein_width_m": 1.1
+            },
+            {
+                "vein": "Sandra K",
+                "average_dip": "34°",
+                "strike_length_km": 1.5,
+                "down_dip_length_km": 2.3,
+                "average_vein_width_m": 1.2
+            },
+            {
+                "vein": "Carla",
+                "average_dip": "34°",
+                "strike_length_km": 0.85,
+                "down_dip_length_km": 0.48,
+                "average_vein_width_m": 1.3
+            }
+        ]
+    },
+    "mineral_resources": {
+        "summary": {
+            "commodity": "Gold",
+            "unit": "g/t Au",
+            "contained_unit": "koz Au"
+        },
+        "data": [
+            {
+                "area": "Segovia Operations",
+                "category": "Measured",
+                "tonnes": 4100000.0,
+                "grade": 14.31,
+                "contained_metal": 1893.0
+            },
+            {
+                "area": "Segovia Operations",
+                "category": "Indicated",
+                "tonnes": 3800000.0,
+                "grade": 14.38,
+                "contained_metal": 1736.0
+            },
+            {
+                "area": "Segovia Operations",
+                "category": "Measured + Indicated",
+                "tonnes": 7900000.0,
+                "grade": 14.34,
+                "contained_metal": 3629.0
+            },
+            {
+                "area": "Segovia Operations",
+                "category": "Inferred",
+                "tonnes": 4700000.0,
+                "grade": 12.11,
+                "contained_metal": 1823.0
+            }
+        ],
+        "cut_off_grades": [
+            {
+                "area": "El Silencio",
+                "gold_price": 1850.0,
+                "smelting_and_refining": 9.25,
+                "royalties": 3.52,
+                "gold_processing_recovery_pct": 95.2,
+                "mining_cost": 114.0,
+                "processing_cost": 34.0,
+                "ga_cost": 25.0,
+                "tailings_sustaining_cost": 1.5,
+                "credits": 23.0,
+                "final_cut_off_grade": 2.8
+            },
+            {
+                "area": "Providencia",
+                "gold_price": 1850.0,
+                "smelting_and_refining": 9.25,
+                "royalties": 3.52,
+                "gold_processing_recovery_pct": 95.2,
+                "mining_cost": 125.0,
+                "processing_cost": 34.0,
+                "ga_cost": 25.0,
+                "tailings_sustaining_cost": 1.5,
+                "credits": 23.0,
+                "final_cut_off_grade": 3.0
+            },
+            {
+                "area": "Sandra K",
+                "gold_price": 1850.0,
+                "smelting_and_refining": 9.25,
+                "royalties": 3.52,
+                "gold_processing_recovery_pct": 95.2,
+                "mining_cost": 132.0,
+                "processing_cost": 34.0,
+                "ga_cost": 25.0,
+                "tailings_sustaining_cost": 1.5,
+                "credits": 23.0,
+                "final_cut_off_grade": 3.12
+            },
+            {
+                "area": "Carla",
+                "gold_price": 1850.0,
+                "smelting_and_refining": 9.25,
+                "royalties": 3.2,
+                "gold_processing_recovery_pct": 95.2,
+                "mining_cost": 121.0,
+                "processing_cost": 34.0,
+                "ga_cost": 25.0,
+                "tailings_sustaining_cost": 1.5,
+                "credits": 23.0,
+                "final_cut_off_grade": 2.91
+            }
+        ],
+        "drilling_summary": [
+            {
+                "target": "El Silencio",
+                "number_of_holes": 790,
+                "total_metres": 163547.0
+            },
+            {
+                "target": "Sandra K",
+                "number_of_holes": 655,
+                "total_metres": 124963.0
+            },
+            {
+                "target": "Providencia",
+                "number_of_holes": 637,
+                "total_metres": 81416.0
+            },
+            {
+                "target": "Carla",
+                "number_of_holes": 196,
+                "total_metres": 41334.0
+            },
+            {
+                "target": "Las Verticales",
+                "number_of_holes": 142,
+                "total_metres": 36369.0
+            },
+            {
+                "target": "Cristales",
+                "number_of_holes": 120,
+                "total_metres": 30412.0
+            },
+            {
+                "target": "Manzanillo",
+                "number_of_holes": 62,
+                "total_metres": 12309.0
+            },
+            {
+                "target": "Cordoba Marmajito",
+                "number_of_holes": 56,
+                "total_metres": 10938.0
+            },
+            {
+                "target": "Guia Antigua",
+                "number_of_holes": 44,
+                "total_metres": 8069.0
+            },
+            {
+                "target": "La Vera",
+                "number_of_holes": 43,
+                "total_metres": 10219.0
+            },
+            {
+                "target": "Sin Nombre",
+                "number_of_holes": 25,
+                "total_metres": 5832.0
+            },
+            {
+                "target": "La Culebra",
+                "number_of_holes": 8,
+                "total_metres": 2679.0
+            },
+            {
+                "target": "Other",
+                "number_of_holes": 6,
+                "total_metres": 1439.0
+            }
+        ],
+        "data_availability": [
+            {
+                "area": "El Silencio",
+                "channel_count": 94416,
+                "channel_metres": 96380.0,
+                "drillhole_count": 790,
+                "drillhole_metres": 163547.0
+            },
+            {
+                "area": "Providencia",
+                "channel_count": 56221,
+                "channel_metres": 55237.0,
+                "drillhole_count": 637,
+                "drillhole_metres": 81416.0
+            },
+            {
+                "area": "Sandra K",
+                "channel_count": 38913,
+                "channel_metres": 27684.0,
+                "drillhole_count": 655,
+                "drillhole_metres": 124963.0
+            },
+            {
+                "area": "La Vera",
+                "channel_count": 4693,
+                "channel_metres": 3450.0,
+                "drillhole_count": 43,
+                "drillhole_metres": 10219.0
+            },
+            {
+                "area": "Cristales",
+                "channel_count": 4090,
+                "channel_metres": 2626.0,
+                "drillhole_count": 120,
+                "drillhole_metres": 30412.0
+            },
+            {
+                "area": "Carla",
+                "channel_count": 3245,
+                "channel_metres": 3369.0,
+                "drillhole_count": 196,
+                "drillhole_metres": 41334.0
+            },
+            {
+                "area": "Guia Antigua",
+                "channel_count": 1047,
+                "channel_metres": 968.0,
+                "drillhole_count": 44,
+                "drillhole_metres": 8069.0
+            },
+            {
+                "area": "Cordoba Marmajito",
+                "channel_count": 499,
+                "channel_metres": 287.0,
+                "drillhole_count": 56,
+                "drillhole_metres": 10938.0
+            },
+            {
+                "area": "Manzanillo",
+                "channel_count": 109,
+                "channel_metres": 168.0
+            },
+            {
+                "area": "La Culebra",
+                "channel_count": 28,
+                "channel_metres": 17.0,
+                "drillhole_count": 8,
+                "drillhole_metres": 2679.0
+            }
+        ],
+        "block_model_stats": [
+            {
+                "vein": "El Silencio",
+                "fault_blocks": 61,
+                "notes": "Vein structure fault blocks used for the mineral resource estimate"
+            },
+            {
+                "vein": "Providencia",
+                "fault_blocks": 30,
+                "notes": "Vein structure fault blocks used for the mineral resource estimate"
+            },
+            {
+                "vein": "Sandra K",
+                "fault_blocks": 23,
+                "notes": "Vein structure fault blocks used for the mineral resource estimate"
+            },
+            {
+                "vein": "Carla",
+                "fault_blocks": 26,
+                "notes": "Vein structure fault blocks used for the mineral resource estimate"
+            }
+        ],
+        "sample_statistics": [
+            {
+                "vein": "El Silencio",
+                "coefficient_of_variation": 2.4,
+                "mean_grade": 14.4,
+                "notes": "Sample composite statistics"
+            },
+            {
+                "vein": "Providencia",
+                "coefficient_of_variation": 2.9,
+                "mean_grade": 18.56,
+                "notes": "Sample composite statistics"
+            },
+            {
+                "vein": "Sandra K",
+                "coefficient_of_variation": 1.8,
+                "mean_grade": 19.25,
+                "notes": "Sample composite statistics"
+            },
+            {
+                "vein": "Carla",
+                "coefficient_of_variation": 2.5,
+                "mean_grade": 9.6,
+                "notes": "Sample composite statistics"
+            }
+        ],
+        "totals": {
+            "measured_tonnes": 4100000.0,
+            "indicated_tonnes": 3800000.0,
+            "inferred_tonnes": 4700000.0,
+            "measured_indicated_tonnes": 7900000.0,
+            "measured_metal_koz": 1893.0,
+            "indicated_metal_koz": 1736.0,
+            "inferred_metal_koz": 1823.0,
+            "measured_indicated_metal_koz": 3629.0,
+            "total_drilling_holes": 2784,
+            "total_drilling_metres": 529527.0,
+            "total_channel_samples": 203261,
+            "total_channel_metres": 190186.0
+        }
+    },
+    "mineral_reserves": {
+        "summary": {
+            "mining_method": "Underground",
+            "life_of_mine_years": 7.0,
+            "mining_rate_tpd": 1400.0,
+            "dilution_pct": null,
+            "mining_recovery_pct": 90.0
+        },
+        "data": [
+            {
+                "area": "Segovia Operations",
+                "category": "Proven",
+                "tonnes": 1515000.0,
+                "grade": 12.25,
+                "contained_metal": 597.0
+            },
+            {
+                "area": "Segovia Operations",
+                "category": "Probable",
+                "tonnes": 2017000.0,
+                "grade": 11.16,
+                "contained_metal": 723.0
+            }
+        ],
+        "cut_off_grades_reserves": [
+            {
+                "area": "Segovia Operations",
+                "gold_price": 1700.0,
+                "smelting_and_refining": null,
+                "royalties": null,
+                "gold_processing_recovery_pct": 95.2,
+                "mining_cost": null,
+                "processing_cost": null,
+                "ga_cost": null,
+                "tailings_sustaining_cost": null,
+                "credits": null,
+                "final_cut_off_grade": 3.05
+            }
+        ],
+        "totals": {
+            "proven_tonnes": 1515000.0,
+            "probable_tonnes": 2017000.0,
+            "proven_probable_tonnes": 3531000.0,
+            "proven_metal_koz": 597.0,
+            "probable_metal_koz": 723.0,
+            "proven_probable_metal_koz": 1320.0,
+            "average_grade": 11.63
+        }
+    },
+    "economics": {
+        "valuation": {
+            "npv": null,
+            "irr": null,
+            "discount_rate": 0.05,
+            "currency": "USD",
+            "payback_period_years": null
+        },
+        "cost_structure": {
+            "capex": {
+                "sustaining": 0.0,
+                "non_sustaining": 0.0,
+                "total": 0.0
+            },
+            "opex": {
+                "mining_cost_per_tonne": 143.0,
+                "processing_cost_per_tonne": 35.0,
+                "ga_cost_per_tonne": 26.0,
+                "total_cost_per_tonne": 0.0
+            },
+            "metal_prices": {
+                "gold_price_assumption": 1700.0,
+                "silver_price_assumption": null
+            }
+        },
+        "operating_costs_detail": [
+            {
+                "description": "Owner mining cost",
+                "amount": 143.0,
+                "unit": "USD per tonne"
+            },
+            {
+                "description": "Contractor mining cost",
+                "amount": 823.0,
+                "unit": "USD per ounce of gold"
+            },
+            {
+                "description": "Artisanal mining cost",
+                "amount": 1291.0,
+                "unit": "USD per ounce of gold"
+            },
+            {
+                "description": "Processing cost",
+                "amount": 35.0,
+                "unit": "USD per tonne"
+            },
+            {
+                "description": "Mine site general and administration cost",
+                "amount": 26.0,
+                "unit": "USD per tonne"
+            }
+        ],
+        "capital_costs_detail": [
+            {
+                "category": "Expansion",
+                "description": "Increase capacity of Maria Dama processing plant",
+                "amount": 11000000.0
+            }
+        ],
+        "metallurgy_history": [
+            {
+                "year": "2019",
+                "tonnes_processed": 451450.0,
+                "head_grade_au": 15.48,
+                "recovery_pct": 95.2,
+                "gold_produced_oz": 214036.0
+            },
+            {
+                "year": "2020",
+                "tonnes_processed": 468597.0,
+                "head_grade_au": 13.63,
+                "recovery_pct": 95.6,
+                "gold_produced_oz": 196329.0
+            },
+            {
+                "year": "2021",
+                "tonnes_processed": 556219.0,
+                "head_grade_au": 12.84,
+                "recovery_pct": 94.7,
+                "gold_produced_oz": 206389.0
+            },
+            {
+                "year": "2022",
+                "tonnes_processed": 611765.0,
+                "head_grade_au": 11.87,
+                "recovery_pct": 94.9,
+                "gold_produced_oz": 210163.0
+            },
+            {
+                "year": "2023",
+                "tonnes_processed": 467274.0,
+                "head_grade_au": 10.34,
+                "recovery_pct": 95.4,
+                "gold_produced_oz": 148221.0
+            }
+        ],
+        "credits": [
+            {
+                "description": "Concentrate and silver credit",
+                "amount": 23.0,
+                "unit": "USD per tonne"
+            }
+        ],
+        "processing_info": {
+            "plant_name": "Maria Dama",
+            "nominal_capacity_tpd": 2000.0,
+            "process_type": "Crushing, grinding, gravity concentration, flotation, cyanidation, Merrill-Crowe",
+            "recovery_rate_pct": 95.2
+        }
+    }
+}

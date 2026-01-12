@@ -42,7 +42,6 @@ Thumbs.db
 logs/
 
 # Output files (candidates will generate these)
-output/
 results/
 
 # Environment variables
