@@ -1,0 +1,251 @@
+{
+    "validation": {
+        "status": "WARNING",
+        "warnings": [
+            "⚠️  Sin recursos NI 43-101 definidos (proyecto en exploración)"
+        ],
+        "errors": [],
+        "metadata_summary": {
+            "project": "Fredonia and Venecia Prospects",
+            "company": "Colombia Crest Gold Corp.",
+            "country": "Colombia",
+            "region": "Antioquia Department",
+            "effective_date": null,
+            "qps": 1,
+            "mining_titles_count": 15,
+            "veins_count": 0
+        },
+        "resources_summary": {},
+        "reserves_summary": {},
+        "economics_summary": {
+            "capex_total": "$0",
+            "capex_sustaining": "$0",
+            "capex_non_sustaining": "$0",
+            "mining_cost_per_t": "$0.00",
+            "processing_cost_per_t": "$0.00",
+            "ga_cost_per_t": "$0.00",
+            "has_npv": false,
+            "has_irr": false,
+            "gold_price": "$0/oz",
+            "opex_detail_count": 0,
+            "capex_detail_count": 0,
+            "metallurgy_years": 0,
+            "credits_count": 0
+        }
+    },
+    "metadata": {
+        "project_info": {
+            "project_name": "Fredonia and Venecia Prospects",
+            "company_name": "Colombia Crest Gold Corp.",
+            "status": "Exploration"
+        },
+        "location": {
+            "country": "Colombia",
+            "region": "Antioquia Department",
+            "coordinates": "Approximately 10 to 40 kilometers west, south and southwest of Medellin city",
+            "municipalities": [
+                "Fredonia",
+                "Venecia"
+            ]
+        },
+        "report_details": {
+            "report_type": "NI 43-101",
+            "report_date": "March 30, 2013",
+            "effective_date": null,
+            "qualified_persons": [
+                "Dr. Thomas A. Henricksen, QP PGeo, License No. PG - 3069 State of Wyoming"
+            ]
+        },
+        "mining_titles": [
+            {
+                "number": "C 02 7350",
+                "area_name": "HIDK-04",
+                "type": "contrato",
+                "area_ha": 593.8,
+                "expiry": null
+            },
+            {
+                "number": "C 03 7350B",
+                "area_name": "HIMN-01",
+                "type": "contrato",
+                "area_ha": 1992.4,
+                "expiry": null
+            },
+            {
+                "number": "C 06 IIR-08002X",
+                "area_name": "IIR-08002X",
+                "type": "contrato",
+                "area_ha": 250.0,
+                "expiry": null
+            },
+            {
+                "number": "C 08 7340",
+                "area_name": "H7340005",
+                "type": "contrato",
+                "area_ha": 1999.6,
+                "expiry": null
+            },
+            {
+                "number": "C 11.1 JLH-16211 zona 1",
+                "area_name": "JLH-16211",
+                "type": "contrato",
+                "area_ha": 2045.3,
+                "expiry": null
+            },
+            {
+                "number": "PT 02 7537 área 2",
+                "area_name": "HHN-08021X",
+                "type": "estudio téc.",
+                "area_ha": 1428.6,
+                "expiry": null
+            },
+            {
+                "number": "PT 04 7537 área 4",
+                "area_name": "HHN-08022X",
+                "type": "estudio téc.",
+                "area_ha": 10.9,
+                "expiry": null
+            },
+            {
+                "number": "PT 09.2 KG7-08061 sector 2",
+                "area_name": "KG7-08062X",
+                "type": "estudio téc.",
+                "area_ha": 5304.0,
+                "expiry": null
+            },
+            {
+                "number": "PT 11.8 JLH-16211 zona 8",
+                "area_name": "JLH-16218X",
+                "type": "estudio téc.",
+                "area_ha": 1933.1,
+                "expiry": null
+            },
+            {
+                "number": "PT 13.1 JLC-16401 sector 1",
+                "area_name": "JLC-16401",
+                "type": "estudio téc.",
+                "area_ha": 351.5,
+                "expiry": null
+            },
+            {
+                "number": "PT 13.2 JLC-16401 sector 2",
+                "area_name": "JLC-16402X",
+                "type": "estudio téc.",
+                "area_ha": 949.6,
+                "expiry": null
+            },
+            {
+                "number": "PT 13.3 JLC-16401 sector 3",
+                "area_name": "JLC-16403X",
+                "type": "estudio téc.",
+                "area_ha": 8469.0,
+                "expiry": null
+            },
+            {
+                "number": "PT 16.2 KJ1-08042 sector 2",
+                "area_name": "Frontera S.O.M.",
+                "type": "estudio téc.",
+                "area_ha": 365.8,
+                "expiry": null
+            },
+            {
+                "number": "PT 17.2 KK3-08041 área 2",
+                "area_name": "KK3-08042X",
+                "type": "estudio téc.",
+                "area_ha": 29.8,
+                "expiry": null
+            },
+            {
+                "number": "PT 17.5 KK3-08041 área 5",
+                "area_name": "KK3-08045X",
+                "type": "estudio téc.",
+                "area_ha": 7.4,
+                "expiry": null
+            }
+        ],
+        "vein_dimensions": []
+    },
+    "mineral_resources": {
+        "summary": {
+            "commodity": "Gold",
+            "unit": "g/t Au",
+            "contained_unit": "koz Au"
+        },
+        "data": [],
+        "cut_off_grades": [],
+        "drilling_summary": [
+            {
+                "target": "Arabia Zone",
+                "number_of_holes": 18,
+                "total_metres": 6574.15
+            }
+        ],
+        "data_availability": [],
+        "block_model_stats": [],
+        "sample_statistics": [],
+        "totals": {
+            "measured_tonnes": 0.0,
+            "indicated_tonnes": 0.0,
+            "inferred_tonnes": 0.0,
+            "measured_indicated_tonnes": 0.0,
+            "measured_metal_koz": 0.0,
+            "indicated_metal_koz": 0.0,
+            "inferred_metal_koz": 0.0,
+            "measured_indicated_metal_koz": 0.0,
+            "total_drilling_holes": 18,
+            "total_drilling_metres": 6574.15,
+            "total_channel_samples": 0,
+            "total_channel_metres": 0.0
+        }
+    },
+    "mineral_reserves": {
+        "summary": {},
+        "data": [],
+        "cut_off_grades_reserves": [],
+        "totals": {
+            "proven_tonnes": 0.0,
+            "probable_tonnes": 0.0,
+            "proven_probable_tonnes": 0.0,
+            "proven_metal_koz": 0.0,
+            "probable_metal_koz": 0.0,
+            "proven_probable_metal_koz": 0.0,
+            "average_grade": 0.0
+        }
+    },
+    "economics": {
+        "valuation": {
+            "npv": null,
+            "irr": null,
+            "discount_rate": 0.05,
+            "currency": "USD",
+            "payback_period_years": null
+        },
+        "cost_structure": {
+            "capex": {
+                "sustaining": 0.0,
+                "non_sustaining": 0.0,
+                "total": 0.0
+            },
+            "opex": {
+                "mining_cost_per_tonne": 0.0,
+                "processing_cost_per_tonne": 0.0,
+                "ga_cost_per_tonne": 0.0,
+                "total_cost_per_tonne": 0.0
+            },
+            "metal_prices": {
+                "gold_price_assumption": 0.0,
+                "silver_price_assumption": null
+            }
+        },
+        "operating_costs_detail": [],
+        "capital_costs_detail": [],
+        "metallurgy_history": [],
+        "credits": [],
+        "processing_info": {
+            "plant_name": null,
+            "nominal_capacity_tpd": null,
+            "process_type": null,
+            "recovery_rate_pct": null
+        }
+    }
+}
